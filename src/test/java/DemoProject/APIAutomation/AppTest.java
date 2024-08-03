@@ -11,6 +11,7 @@ import io.restassured.path.json.JsonPath;
 
 public class AppTest 
 {
+	//Author Manohar Kokkerigedda
 	public String place_id="69a3ea9f1ae565820a064263dc17580c";
    @Test(priority=1)
     public void AddPlace()
