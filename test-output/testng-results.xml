@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-02T23:17:18 IST" name="Default suite" finished-at="2024-08-02T23:17:20 IST" duration-ms="1984">
+  <suite started-at="2024-08-04T11:36:33 IST" name="Default suite" finished-at="2024-08-04T11:36:33 IST" duration-ms="71">
     <groups>
     </groups>
-    <test started-at="2024-08-02T23:17:18 IST" name="Default test" finished-at="2024-08-02T23:17:20 IST" duration-ms="1984">
-      <class name="DemoProject.practice.Oauth20">
-        <test-method signature="getOauth()[pri:0, instance:DemoProject.practice.Oauth20@59505b48]" started-at="2024-08-02T23:17:18 IST" name="getOauth" finished-at="2024-08-02T23:17:20 IST" duration-ms="1939" status="PASS">
+    <test started-at="2024-08-04T11:36:33 IST" name="Default test" finished-at="2024-08-04T11:36:33 IST" duration-ms="71">
+      <class name="DemoProject.practice.Programming">
+        <test-method signature="reverseanArray()[pri:0, instance:DemoProject.practice.Programming@7d4f9aae]" started-at="2024-08-04T11:36:33 IST" name="reverseanArray" finished-at="2024-08-04T11:36:33 IST" duration-ms="21" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getOauth -->
-      </class> <!-- DemoProject.practice.Oauth20 -->
+        </test-method> <!-- reverseanArray -->
+      </class> <!-- DemoProject.practice.Programming -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

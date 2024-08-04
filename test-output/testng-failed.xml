@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="DemoProject.APIAutomation.Oauthexample">
+      <class name="DemoProject.APIAutomation.AppTest">
         <methods>
-          <include name="testacccessToken"/>
+          <include name="reverseString"/>
         </methods>
-      </class> <!-- DemoProject.APIAutomation.Oauthexample -->
+      </class> <!-- DemoProject.APIAutomation.AppTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
