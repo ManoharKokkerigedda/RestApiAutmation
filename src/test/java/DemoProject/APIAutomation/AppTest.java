@@ -56,4 +56,17 @@ public class AppTest
       String msg=js.getString("address");
       System.out.println(msg);
    }
+   @Test()
+   public void reverseString()
+   {
+	   String Test="Manohar";
+	   int size=Test.length();
+	   String reversevalue="";
+
+		   for(int i=size-1;i>=0;i--)
+		   {
+		   	reversevalue=reversevalue+Test.charAt(i);
+		   }
+		   System.out.println("reverseofString:-->"+reversevalue);
+   }
 }
